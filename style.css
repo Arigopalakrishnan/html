@@ -1,0 +1,66 @@
+h1{
+border-style:solid;
+border-width:1px;
+color:deeppink;
+background-color:gold;
+text-align:center;
+
+
+
+}
+h1:hover{
+color:black;
+cursor:pointer;
+transition:0.5s;
+}
+h3{
+
+text-decoration: underline;
+color:white;
+}
+p{
+color:orangered;
+
+
+
+}
+form{
+border-style:solid;
+color:white;
+
+
+}
+button{
+color:white;
+background-color:navy;
+}
+body{
+
+    background-color:black;
+}
+li{
+
+    color:white;
+}
+label{
+
+color:aqua;
+
+}
+h3.k{
+text-align: center;
+color:red;
+
+}
+
+li.n{
+color:yellow;
+border-style: solid;
+text-align: center;
+background-color: blue;
+}
+ 
+
+
+
+
